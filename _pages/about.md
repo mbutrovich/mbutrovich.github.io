@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Ph.D. student @ CMU
+subtitle: Ph.D. student @ CMU
 
 profile:
   align: right
