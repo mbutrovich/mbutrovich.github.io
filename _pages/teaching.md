@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have been lucky to teach in many different capacities over the years, and enjoy finding ways to help students connect with challenging subjects.
 nav: true
 nav_order: 4
 ---
