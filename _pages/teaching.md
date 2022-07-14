@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have been lucky to teach in many different capacities over the years, and enjoy finding ways to help students connect with challenging subjects.
+description: I have had opportunities to teach in many different capacities over the years, and enjoy finding ways to help students connect with challenging subjects.
 nav: true
 nav_order: 4
 ---
