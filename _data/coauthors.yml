@@ -4,7 +4,7 @@
 
 "Li":
   - firstname: ["Tianyu", "T."]
-    url: https://tli2.github.io
+    url: https://tli2.github.io/
 
 "Ma":
   - firstname: ["Lin", "L."]
@@ -29,4 +29,8 @@
 "Ngom":
   - firstname: ["Amadou", "A."]
     url: https://www.linkedin.com/in/amadou-ngom/
+
+"Xia":
+  - firstname: ["Yu", "Y."]
+    url: https://www.linkedin.com/in/yu-xia/
 
