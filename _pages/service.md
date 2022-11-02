@@ -15,8 +15,8 @@ nav_order: 4
 **To the Profession**
 
 * Reviewer, ACM SIGMOD Artifacts & Reproducibility Committee (2023)
-* Organizer, ¡Databases! – A Database Seminar Series ([Fall 2022])(https://db.cs.cmu.edu/seminar2022/)
-* Organizer, Vaccination Database Tech Talks – Booster ([Spring 2022])(https://db.cs.cmu.edu/seminar2022-booster)
-* Organizer, Vaccination Database Tech Talks – Second Dose ([Fall 2021])(https://db.cs.cmu.edu/seminar2021-dose2)
-* Organizer, Vaccination Database Tech Talks – First Dose ([Spring 2021])(https://db.cs.cmu.edu/seminar2021)
-* Organizer, Quarantine Database Tech Talks ([Fall 2020])(https://db.cs.cmu.edu/seminar2020)
+* Organizer, ¡Databases! – A Database Seminar Series ([Fall 2022](https://db.cs.cmu.edu/seminar2022/))
+* Organizer, Vaccination Database Tech Talks – Booster ([Spring 2022](https://db.cs.cmu.edu/seminar2022-booster))
+* Organizer, Vaccination Database Tech Talks – Second Dose ([Fall 2021](https://db.cs.cmu.edu/seminar2021-dose2))
+* Organizer, Vaccination Database Tech Talks – First Dose ([Spring 2021](https://db.cs.cmu.edu/seminar2021))
+* Organizer, Quarantine Database Tech Talks ([Fall 2020](https://db.cs.cmu.edu/seminar2020))
