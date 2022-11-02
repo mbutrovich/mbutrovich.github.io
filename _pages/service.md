@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: service
-description: I have had the privilege to listen and contribute to organizations that shape the future of our field. I look forward to learning more from new opportunities.
+description: I have had the privilege to contribute to organizations that discuss and shape the future of our field. I am constantly looking for new opportunities where I can listen and learn.
 nav: true
 nav_order: 4
 ---
