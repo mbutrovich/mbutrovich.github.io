@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 ---
 
+**To the University**
+
+* Computer Science Department, Doctoral Review Committee (2020 — present)
+* Computer Science Department, MSCS Admissions Committee (2019, 2020, 2021, 2022)
+
 **To the Profession**
 
 * Reviewer, ACM SIGMOD Artifacts & Reproducibility Committee (2023)
@@ -15,8 +20,3 @@ nav_order: 4
 * Organizer, Vaccination Database Tech Talks – Second Dose ([Fall 2021])(https://db.cs.cmu.edu/seminar2021-dose2)
 * Organizer, Vaccination Database Tech Talks – First Dose ([Spring 2021])(https://db.cs.cmu.edu/seminar2021)
 * Organizer, Quarantine Database Tech Talks ([Fall 2020])(https://db.cs.cmu.edu/seminar2020)
-
-**To the University**
-
-* Computer Science Department, Doctoral Review Committee (2020 — present)
-* Computer Science Department, MSCS Admissions Committee (2019, 2020, 2021, 2022)
