@@ -9,8 +9,8 @@ nav_order: 4
 
 **To the University**
 
-* Computer Science Department, Doctoral Review Committee (2020 — present)
-* Computer Science Department, MSCS Admissions Committee (2019, 2020, 2021, 2022)
+* Computer Science Department - Doctoral Review Committee (2020 — present)
+* Computer Science Department - MSCS Admissions Committee (2019, 2020, 2021, 2022)
 
 **To the Profession**
 
