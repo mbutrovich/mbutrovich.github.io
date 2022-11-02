@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: service
-description: I have had opportunities to teach in many different capacities over the years, and enjoy finding ways to help students connect with challenging subjects.
+description: I have had the privilege to listen and contribute to organizations that shape the future of our field. I look forward to learning more from new opportunities.
 nav: true
 nav_order: 4
 ---
@@ -10,11 +10,11 @@ nav_order: 4
 **To the Profession**
 
 * Reviewer, ACM SIGMOD Artifacts & Reproducibility Committee (2023)
-* Organizer, ¡Databases! – A Database Seminar Series [Fall 2022](https://db.cs.cmu.edu/seminar2022/)
-* Organizer, Vaccination Database Tech Talks – Booster [Spring 2022](https://db.cs.cmu.edu/seminar2022-booster)
-* Organizer, Vaccination Database Tech Talks – Second Dose [Fall 2021](https://db.cs.cmu.edu/seminar2021-dose2)
-* Organizer, Vaccination Database Tech Talks – First Dose [Spring 2021](https://db.cs.cmu.edu/seminar2021)
-* Organizer, Quarantine Database Tech Talks [Fall 2020](https://db.cs.cmu.edu/seminar2020)
+* Organizer, ¡Databases! – A Database Seminar Series ([Fall 2022])(https://db.cs.cmu.edu/seminar2022/)
+* Organizer, Vaccination Database Tech Talks – Booster ([Spring 2022])(https://db.cs.cmu.edu/seminar2022-booster)
+* Organizer, Vaccination Database Tech Talks – Second Dose ([Fall 2021])(https://db.cs.cmu.edu/seminar2021-dose2)
+* Organizer, Vaccination Database Tech Talks – First Dose ([Spring 2021])(https://db.cs.cmu.edu/seminar2021)
+* Organizer, Quarantine Database Tech Talks ([Fall 2020])(https://db.cs.cmu.edu/seminar2020)
 
 **To the University**
 
