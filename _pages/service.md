@@ -11,7 +11,7 @@ nav_order: 4
 
 * Computer Science Department - Diversity, Equity and Inclusion Committee (2022 — present)
 * Computer Science Department - Doctoral Review Committee (2020 — present)
-* Computer Science Department - MSCS Admissions Committee (2019, 2020, 2021, 2022)
+* Computer Science Department - MSCS Admissions Committee (2019, 2020, 2021, 2022, 2023)
 
 **To the Profession**
 
