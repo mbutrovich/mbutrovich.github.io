@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student @ CMU
+subtitle: Ph.D. candidate @ CMU
 
 profile:
   align: right
