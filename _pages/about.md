@@ -22,4 +22,4 @@ I am a Ph.D. candidate (graduating May 2024) in the [Computer Science Department
 
 I previously completed an M.Sc. in Computer Science at CMU, graduating in December 2018. Before graduate school, I worked at [Western Digital](https://www.westerndigital.com) for over eight years, performing firmware validation on storage devices while earning a B.Sc. in Computer Science & Engineering at [UC Irvine](https://uci.edu) and [Irvine Valley College](https://www.ivc.edu).
 
-I am currently discussing with industy teams about roles post-graduation. If you work on DBMS internals and think I might be a good fit, please see my résumé above and do reach out. I would love to chat with you!
+I am currently discussing with industry teams about roles post-graduation. If you work on DBMS internals and think I might be a good fit, please see my résumé above and do reach out. I would love to chat with you!
