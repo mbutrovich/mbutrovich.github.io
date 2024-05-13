@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Recent Ph.D. from CMU
+subtitle: Databaseologist from CMU
 
 profile:
   align: right
