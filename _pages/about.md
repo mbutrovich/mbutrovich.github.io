@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a distributed database engineer at [Apple](https://www.apple.com) working on the the Data Platform team. Currently, I am enhancing [Apache Spark](https://spark.apache.org)'s performance by developing a native query execution engine, [Apache DataFusion Comet](https://datafusion.apache.org/comet/), using [Apache Arrow](https://arrow.apache.org) and [Apache DataFusion](https://datafusion.apache.org) as the foundation.
+I am a distributed database engineer at [Apple](https://www.apple.com) working on the Data Platform team. Currently, I am enhancing [Apache Spark](https://spark.apache.org)'s performance by developing a native query execution engine, [Apache DataFusion Comet](https://datafusion.apache.org/comet/), using [Apache Arrow](https://arrow.apache.org) and [Apache DataFusion](https://datafusion.apache.org) as the foundation.
 
 I earned my Ph.D. in Computer Science at [Carnegie Mellon University](https://www.cmu.edu), where I researched database management systems (DBMSs) with [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) and the rest of the [CMU Database Group](https://db.cs.cmu.edu). My research explored operating system and DBMS co-design opportunities via safe kernel extension mechanisms like [eBPF](https://ebpf.io/what-is-ebpf/).
 
